@@ -14,6 +14,26 @@
       "id": 3,
       "title": "Fix the gutters",
       "completed": true
+    },
+    {
+      "title": "Do your homework",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "do your shit",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "just kiding",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "UH OH!",
+      "completed": false,
+      "id": 9
     }
   ]
 }
